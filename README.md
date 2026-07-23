@@ -1,2 +1,1 @@
-# PHM-Pad-Volume-1
-My own version of the HackPad. Themed around the Project Hail Mary universe and designed to fix the flaw of a large number of keyboard.
+Please refer to the README inside the PHMPAD Vol. 1. I'm not too sure how to delete this one.
