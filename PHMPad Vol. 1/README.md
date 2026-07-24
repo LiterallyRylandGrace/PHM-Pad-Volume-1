@@ -15,7 +15,7 @@ Made in Fusion 360.
 Works. Hopefully.
 
 ## PCB
-PCB TIME! I decided to venture a bit away from the tutorial that is the HackPad. My confidence towards anything that I did is almost null, which means you could say that this project is held up by hopes and prayers.
+PCB TIME! I decided to venture a bit away from the tutorial that is the HackPad. My confidence towards anything that I did is almost null which means you could say that this project is held up by hopes and prayers.
 
 <img src=assets/pcb.png alt="Schematic" width="300"/>
 
