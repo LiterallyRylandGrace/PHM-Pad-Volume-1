@@ -7,7 +7,7 @@ The PHM Pad Vol. 1 is a macropad designed to compensate for the flaw of many key
 - 6 keys. No more, no less.
 
 ## CAD Model
-4 Screws and you're good. How innovative am I right? You get a bottom and a top. The design is made to match with my computer case, so it's not guaranteed to work (aesthetically) with yours. To be fair, it is my very first CAD model so I think it doesn't look all to shabby.
+4 Screws and you're good. How innovative, am I right? You get a bottom and a top. The design is made to match with my computer case, so it's not guaranteed to work (aesthetically) with yours. To be fair, it is my very first CAD model so I think it doesn't look all to shabby.
 
 <img src=assets/cad.png alt="Schematic" width="500"/>
 
